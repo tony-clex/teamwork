@@ -5,8 +5,9 @@ body {
 }
 
 header {
-  background-image:linear-gradient(#0d508f80, #001c5879), url("../image/image1.jpg");
-  background-size:cover;
+  background-image: linear-gradient(#0d508f80, #001c5879),
+    url("../image/image1.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -21,11 +22,7 @@ nav {
 }
 
 .material-symbols-outlined {
-  font-variation-settings:
-    "FILL" 0,
-    "wght" 400,
-    "GRAD" 0,
-    "opsz" 24
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
 }
 
 header img {
@@ -33,7 +30,7 @@ header img {
 }
 
 header {
-  background-color: #95aef879;;
+  background-color: #95aef879;
 }
 
 nav ul {
@@ -41,7 +38,7 @@ nav ul {
 }
 
 .head {
-  background-color: #2beb6e;;
+  background-color: #2beb6e;
   text-align: center;
   padding-bottom: 20px;
   margin-bottom: -20px;
@@ -73,7 +70,7 @@ nav ul {
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #2beb6e;;
+  background-color: #2beb6e;
   border-radius: 0.3rem;
 }
 
@@ -87,7 +84,8 @@ nav ul {
 }
 
 .part3 {
-  background-image:linear-gradient(#0d508f80, #001c5879), url("../image/image3.jpg");
+  background-image: linear-gradient(#0d508f80, #001c5879),
+    url("../image/image3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -101,7 +99,6 @@ nav ul {
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
 }
-  
 
 .chapter2 {
   background-color: #95aef879;
@@ -128,7 +125,6 @@ footer img {
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
   background-color: #2beb6e;
@@ -146,15 +142,12 @@ footer img {
   border: none;
   margin-top: 20px;
   cursor: pointer;
-
 }
 
 .season2 {
-  
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
   background-color: #2beb6e;
@@ -175,14 +168,12 @@ footer img {
 }
 
 .season3 {
-  
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
-  background-color: #2beb6e;;
+  background-color: #2beb6e;
 }
 
 .season3 img {
@@ -200,11 +191,9 @@ footer img {
 }
 
 .season4 {
-  
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
   background-color: #2beb6e;
@@ -225,11 +214,9 @@ footer img {
 }
 
 .season5 {
-  
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
   background-color: #2beb6e;
@@ -250,11 +237,9 @@ footer img {
 }
 
 .season6 {
-  
   padding: 1rem;
   margin: 14px;
   text-align: center;
-  background-color: #fff;
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
   background-color: #2beb6e;
