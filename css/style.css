@@ -29,7 +29,7 @@ main {
 
 .last-div {
   display: flex;
-  
+
 }
 
 .last-div img {
@@ -49,7 +49,7 @@ button {
   border: none;
   margin-top: 20px;
   cursor: pointer;
-  text-align: center;
+  text-align: center;
 }
 
 footer {
@@ -79,7 +79,7 @@ footer {
 
   footer {
     position: absolute;
-   
+
   }
 }
 
@@ -100,7 +100,8 @@ footer {
   }
 
   .last-div {
-    display: block; position: relative;
+    display: block;
+    position: relative;
   }
 
   .img-1 {
