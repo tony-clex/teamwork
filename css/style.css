@@ -5,7 +5,8 @@ body {
 }
 
 header {
-  background-image: linear-gradient(#0d508f80, #001c5879), url("../image/image1.jpg");
+  background-image: linear-gradient(#0d508f80, #001c5879),
+    url("../image/image1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #95aef879;
@@ -80,7 +81,8 @@ nav ul {
 }
 
 .part3 {
-  background-image: linear-gradient(#0d508f80, #001c5879), url("../image/image3.jpg");
+  background-image: linear-gradient(#0d508f80, #001c5879),
+    url("../image/image3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -266,94 +268,93 @@ footer h4 {
   .material-symbols-outlined {
     font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
     display: none;
-}
+  }
 
-nav {
-  display: flex;
-}
+  nav {
+    display: flex;
+  }
 
-nav ul {
-  display: flex;
-  list-style-type: none;
-  gap: 5px;
-}
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 5px;
+  }
 
-.head {
-  background-color: whitesmoke;
-}
+  .head {
+    background-color: whitesmoke;
+  }
 
-header h1 {
-  color: blue;
-}
+  header h1 {
+    color: blue;
+  }
 
-.whole1 {
-  display: grid;
-  grid-template-columns: 2fr 3fr;
-}
+  .whole1 {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+  }
 
-.family {
-  display: grid;
-  grid-template-columns: 3fr 3fr 3fr;
-}
+  .family {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+  }
 
-.part1 {
-  background-color: whitesmoke;
-}
+  .part1 {
+    background-color: whitesmoke;
+  }
 
-.part2 {
-  background-color: whitesmoke;
-}
+  .part2 {
+    background-color: whitesmoke;
+  }
 
-.part4 {
-  background-color: whitesmoke;
-}
+  .part4 {
+    background-color: whitesmoke;
+  }
 
-.chapter2 img {
-  width: 50%;
-}
+  footer img {
+    width: 55%;
+  }
 
-.season1 img {
-  width: 70%;
-  height: 25%;
-}
+  .chapter2 img {
+    width: 50%;
+  }
 
-.season1 {
-  background-color: whitesmoke;
-}
+  .season1 img {
+    width: 70%;
+    height: 25%;
+  }
 
-.season2 {
-  background-color: whitesmoke;
-}
+  .season1 {
+    background-color: whitesmoke;
+  }
 
-.season3 {
-  width: 68%;
-  background-color: whitesmoke;
-}
+  .season2 {
+    background-color: whitesmoke;
+  }
 
-.season4 {
-  background-color: whitesmoke;
-}
+  .season3 {
+    width: 68%;
+    background-color: whitesmoke;
+  }
 
-.season5 {
-  background-color: whitesmoke;
-}
+  .season4 {
+    background-color: whitesmoke;
+  }
 
-.season6 {
-  width: 68%;
-  background-color: whitesmoke;
-}
+  .season5 {
+    background-color: whitesmoke;
+  }
 
-footer {
-  display: grid;
-  grid-template-columns: 2fr 2fr 2fr 2fr;
-}
+  .season6 {
+    width: 68%;
+    background-color: whitesmoke;
+  }
 
-footer img {
-  width: 55%;
-}
+  footer {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+  }
 
-button {
-  background-color: grey;
+  button {
+    background-color: grey;
+  }
 }
-}
-
